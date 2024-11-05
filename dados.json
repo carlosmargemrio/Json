@@ -9,11 +9,24 @@
     "co_iphan": "PI2205359BAST00001",
     "sintese_bem": "asdasdas",
     "imagem_url": "http://www.plataformacapivara.org/Summa/summa/imagem?proj=FUMDHAM&codigo_sitio=12&indice_imagem=1&qual=full",
+    "municipio": "JoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o Costa",
+    "UF": "PiauÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­"
+  },
+  {
+    "id_bem": "11",
+    "coordinates": [
+      -42.300342,
+      -8.600423
+    ],
+    "identificacao_bem": "Toca da Boa Vista I",
+    "co_iphan": "PI2205359BAST00001",
+    "sintese_bem": "asdasdas",
+    "imagem_url": "http://www.plataformacapivara.org/Summa/summa/imagem?proj=FUMDHAM&codigo_sitio=12&indice_imagem=1&qual=full",
     "municipio": "JoÃÂÃÂÃÂÃÂ£o Costa",
     "UF": "PiauÃÂÃÂÃÂÃÂ­"
   },
   {
-    "id_bem": "11",
+    "id_bem": "10",
     "coordinates": [
       -42.300342,
       -8.600423
@@ -26,7 +39,7 @@
     "UF": "PiauÃÂÃÂ­"
   },
   {
-    "id_bem": "10",
+    "id_bem": "9",
     "coordinates": [
       -42.300342,
       -8.600423
@@ -39,7 +52,7 @@
     "UF": "PiauÃÂ­"
   },
   {
-    "id_bem": "9",
+    "id_bem": "8",
     "coordinates": [
       -42.300342,
       -8.600423
@@ -52,7 +65,7 @@
     "UF": "PiauÃ­"
   },
   {
-    "id_bem": "8",
+    "id_bem": "7",
     "coordinates": [
       -42.300342,
       -8.600423
