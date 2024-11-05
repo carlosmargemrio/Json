@@ -11,5 +11,18 @@
     "imagem_url": "http://www.plataformacapivara.org/Summa/summa/imagem?proj=FUMDHAM&codigo_sitio=12&indice_imagem=1&qual=full",
     "municipio": "Joao Costa",
     "UF": "Piaui"
+  },
+  {
+    "id_bem": "2",
+    "coordinates": [
+      -42.300342,
+      -8.600423
+    ],
+    "identificacao_bem": "Toca da Boa Vista I",
+    "co_iphan": "PI2205359BAST00001",
+    "sintese_bem": "asdasdas",
+    "imagem_url": "http://www.plataformacapivara.org/Summa/summa/imagem?proj=FUMDHAM&codigo_sitio=12&indice_imagem=1&qual=full",
+    "municipio": "Joao Costa",
+    "UF": "Piaui"
   }
 ]
